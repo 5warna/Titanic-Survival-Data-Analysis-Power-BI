@@ -25,8 +25,6 @@ Before conducting the analysis, performed a thorough data quality check to ensur
 
 ### Passenger Class
 
-### Conclusion
-
 ## Analysis done on:
 
 Cards: Total Passengers, Survived, Died, Total Fare, Maximum Fare, Average Fare, Maximum Age, Total Male Passengers, Total Female Passengers.
